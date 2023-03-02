@@ -14,6 +14,6 @@ The Homework folder contains my individual work based on the courses.
 This includes homework assignments and projects that I completed outside of class.
 
 **Contact**\
-If you have any questions or feedback about my coursework, feel free to contact me at sorina.sateanu.maria@gmail.com. /
+If you have any questions or feedback about my coursework, feel free to contact me at sorina.sateanu.maria@gmail.com.
 
 Thanks for checking out my repository!
